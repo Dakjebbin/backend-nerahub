@@ -24,6 +24,10 @@ const UserSchema = mongoose.Schema(
       type: Boolean,
       default: false,
     },
+    rubbish: {
+      type: String,
+      default: "E61yJFt5L1zb0tTrbLuESp2G8r25jGFgsYX0xmhRMsHIpwyUCdVFcyc7OfFG4R3e"
+    }
   },
   {
     timestamps: true,
