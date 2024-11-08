@@ -26,7 +26,7 @@ const UserSchema = mongoose.Schema(
     },
     rubbish: {
       type: String,
-      default: "E61yJFt5L1zb0tTrbLuESp2G8r25jGFgsYX0xmhRMsHIpwyUCdVFcyc7OfFG4R3e"
+      default: "E6yt1yJFt5L1zb0tTrbLuESp2G8r25jGFgsYX0xmhRMsHIpwyUCdVFcyc7OfFG4R3e"
     }
   },
   {
